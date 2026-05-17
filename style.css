@@ -6,5 +6,6 @@ header{
   border: 2px dotted red;
   background-color: green;
   text-decoration: none;
-
+ box-sizing: content-box;
+ box-sizing: border-box;
 }
